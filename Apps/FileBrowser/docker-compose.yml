@@ -55,43 +55,52 @@ x-casaos:
   author: CasaOS Team
   category: Cloud
   description:
-    en_us: |   
-    FileBrowser Your Private File Manager Made Easy.
+  
+    description:
+    en_us: |
+      FileBrowser Your Private File Manager Made Easy.
 
-    FileBrowser transforms the way you manage files on your Yundera Private Cloud Server, Just like Google Drive or Windows Explorer, it gives you a full-featured file management experience right in your browser. No setup required, no subscriptions, no tracking.
+      FileBrowser transforms the way you manage files on your Yundera Private Cloud Server, Just like Google Drive or Windows Explorer, it gives you a full-featured file management experience right in your browser. No setup required, no subscriptions, no tracking.
 
-    Upload organize preview and share files from any device desktop or mobile. You can edit text files view images or videos create folders and even share custom access links with others Whether youre backing up your documents organizing media or sharing project files. FileBrowser puts you in control
+      Upload, organize, preview and share files from any device—desktop or mobile. Edit text files, view images or videos, create folders, and even generate custom access links for others. Whether you're backing up documents, managing media, or collaborating on projects, FileBrowser gives you full control.
 
-    Designed for local hosting FileBrowser ensures your files stay on your server with zero reliance on external services Perfect for creators teams and privacy-focused users it supports multi-user access with role-based permissions and works great for everything from family storage to business use
+      Designed for local hosting, FileBrowser ensures your files stay on your server—with zero reliance on third parties. Ideal for creators, teams, and privacy-focused users. Multi-user access and role-based permissions make it fit for home or business.
 
-    With FileBrowser on your Yundera PCS you get the speed of local hosting the freedom of open source and the simplicity of a modern file explorer
-
-
+      With FileBrowser on your Yundera PCS, enjoy the speed of local hosting, the freedom of open source, and the simplicity of a modern file explorer.
     zh_cn: |
-    File Browser - FileBrowser 让私有文件管理变得简单
+      File Browser - FileBrowser 让私有文件管理变得简单。
 
-    FileBrowser 重新定义了你在 Yundera 私有云服务器上管理文件的方式 就像使用 Google Drive 或 Windows 资源管理器一样 你可以直接在浏览器中享受完整的文件管理体验 无需配置 无需订阅 无需追踪
+      FileBrowser 重新定义了你在 Yundera 私有云服务器上管理文件的方式。就像使用 Google Drive 或 Windows 资源管理器一样，你可以直接在浏览器中享受完整的文件管理体验。无需配置，无需订阅，无需追踪。
 
-    无论你使用电脑还是手机都可以轻松上传 组织 预览 和分享文件 你可以编辑文本文件 查看图片或视频 创建文件夹 甚至生成自定义的共享链接 无论是备份文档 整理媒体内容 还是共享项目资料 FileBrowser 都能帮你轻松掌控一切
+      无论你使用电脑还是手机都可以轻松上传、组织、预览和分享文件。你可以编辑文本文件、查看图片或视频、创建文件夹，甚至生成自定义的共享链接。无论是备份文档、整理媒体内容，还是共享项目资料，FileBrowser 都能帮你轻松掌控一切。
 
-    FileBrowser 专为本地部署而设计 所有文件始终保留在你的服务器上 无需依赖外部服务 非常适合创作者 团队 以及注重隐私的用户 支持多用户访问和角色权限管理 从家庭文件存储到商业文件共享都能轻松应对
+      FileBrowser 专为本地部署而设计，所有文件始终保留在你的服务器上，无需依赖外部服务。非常适合创作者、团队，以及注重隐私的用户。支持多用户访问和角色权限管理，从家庭文件存储到商业文件共享都能轻松应对。
 
-    在你的 Yundera 私有云服务器上部署 FileBrowser 你将拥有本地部署的速度 开源工具的自由 以及现代文件浏览器的简洁体验
+      在你的 Yundera 私有云服务器上部署 FileBrowser，你将拥有本地部署的速度、开源工具的自由、以及现代文件浏览器的简洁体验。
+    fr_fr: |
+      FileBrowser - Votre gestionnaire de fichiers personnel simplifié.
+
+      FileBrowser transforme votre façon de gérer vos fichiers sur votre serveur cloud privé Yundera. Comme avec Google Drive ou l’Explorateur Windows, vous profitez d’une expérience de gestion complète directement depuis votre navigateur. Pas besoin de configuration. Pas d’abonnement. Pas de suivi.
+
+      Téléchargez, organisez, prévisualisez et partagez vos fichiers depuis n’importe quel appareil—ordinateur ou mobile. Vous pouvez éditer des fichiers texte, visionner des images ou vidéos, créer des dossiers et même générer des liens de partage personnalisés. Que vous sauvegardiez vos documents, organisiez vos médias ou partagiez des fichiers projets, FileBrowser vous donne le contrôle total.
+
+      Conçu pour l’hébergement local, FileBrowser garantit que vos fichiers restent sur votre serveur, sans dépendre de services externes. Parfait pour les créateurs, les équipes ou les utilisateurs soucieux de leur vie privée. Il prend en charge l’accès multi-utilisateur avec gestion des rôles. Idéal pour une utilisation personnelle ou professionnelle.
+
+      Avec FileBrowser sur votre PCS Yundera, vous profitez de la rapidité de l’hébergement local, de la liberté de l’open source et de la simplicité d’un explorateur de fichiers moderne.
+    ko_kr: |
+      FileBrowser - 쉽고 강력한 개인 파일 관리자
+
+      FileBrowser는 Yundera 프라이빗 클라우드 서버에서 파일을 관리하는 방식을 완전히 새롭게 바꿉니다. Google Drive나 Windows 탐색기처럼 브라우저만으로도 완전한 파일 관리 기능을 사용할 수 있습니다. 설치 불필요, 구독 없음, 추적도 없습니다.
+
+      데스크탑이나 모바일, 어떤 장치에서도 파일을 업로드하고 정리하고 미리 보고 공유할 수 있습니다. 텍스트 파일을 편집하고 이미지나 동영상을 보고 폴더를 만들거나 다른 사람과 링크를 통해 파일을 공유할 수 있습니다. 문서를 백업하든, 미디어를 정리하든, 프로젝트 파일을 공유하든 FileBrowser가 모든 것을 쉽게 만듭니다.
+
+      FileBrowser는 로컬 호스팅을 기반으로 설계되어 파일이 서버에만 저장되며 외부 서비스에 의존하지 않습니다. 창작자, 팀, 프라이버시를 중시하는 사용자에게 적합하며 다중 사용자 접근과 역할 기반 권한 설정을 지원합니다. 가족 저장소부터 비즈니스 용도까지 다양하게 활용 가능합니다.
+
+      Yundera PCS에 FileBrowser를 설치하면 로컬 호스팅의 속도, 오픈소스의 자유, 현대적인 파일 탐색기의 간편함까지 모두 누릴 수 있습니다。
 
     ar_sa: متصفح الملفات - متصفح ملفات Webbased يشمل وظائف المشاركة وما إلى ذلك
     de_de: Datei Browser - Webbasierte Datei Browser, einschließlich Sharing-Funktionen usw.
     es_es: File Browser - Navegador de archivos Webbased que incluye funciones de compartición, etc.
-    fr_fr: |
-    FileBrowser Votre gestionnaire de fichiers personnel simplifié
-
-    FileBrowser transforme votre façon de gérer vos fichiers sur votre serveur cloud privé Yundera Comme avec Google Drive ou l’Explorateur Windows vous profitez d’une expérience de gestion complète directement depuis votre navigateur Pas besoin de configuration Pas d’abonnement Pas de suivi
-
-    Téléchargez organisez prévisualisez et partagez vos fichiers depuis n’importe quel appareil ordinateur ou mobile Vous pouvez éditer des fichiers texte visionner des images ou vidéos créer des dossiers et même générer des liens de partage personnalisés Que vous sauvegardiez vos documents organisiez vos médias ou partagiez des fichiers projets FileBrowser vous donne le contrôle total
-
-    Conçu pour l’hébergement local FileBrowser garantit que vos fichiers restent sur votre serveur sans dépendre de services externes Parfait pour les créateurs les équipes ou les utilisateurs soucieux de leur vie privée il prend en charge l’accès multi-utilisateur avec gestion des rôles Idéal pour une utilisation personnelle ou professionnelle
-
-    Avec FileBrowser sur votre PCS Yundera vous profitez de la rapidité de l’hébergement local de la liberté de l’open source et de la simplicité d’un explorateur de fichiers moderne
-
     hu_hu: File Browser - Webbased File Browser, beleértve a megosztási funkciókat stb.
     it_it: File Browser - Browser di file Webbased che include funzioni di condivisione, ecc.
     ru_ru: File Browser - Webbased File Browser, включая функции обмена, и т.д.
@@ -99,16 +108,7 @@ x-casaos:
     pt_br: File Browser - Navegador de arquivos Webbased que inclui funções de compartilhamento, etc.
     sv_se: File Browser - Webbaserad filbläddrare inklusive delningsfunktioner etc.
     uk_ua: File Browser - Webbased File Browser, включаючи функції обміну, тощо
-    ko_kr: |  FileBrowser 쉽고 강력한 개인 파일 관리자
-
-    FileBrowser는 Yundera 프라이빗 클라우드 서버에서 파일을 관리하는 방식을 완전히 새롭게 바꿉니다 Google Drive나 Windows 탐색기처럼 브라우저만으로도 완전한 파일 관리 기능을 사용할 수 있습니다 설치 불필요 구독 없음 추적도 없습니다
-
-    데스크탑이나 모바일 어떤 장치에서도 파일을 업로드 정리 미리보기 공유할 수 있습니다 텍스트 파일을 편집하고 이미지나 동영상을 보고 폴더를 만들거나 다른 사람과 링크를 통해 파일을 공유할 수 있습니다 문서를 백업하든 미디어를 정리하든 프로젝트 파일을 공유하든 FileBrowser가 모든 것을 쉽게 만듭니다
-
-    FileBrowser는 로컬 호스팅을 기반으로 설계되어 파일이 서버에만 저장되며 외부 서비스에 의존하지 않습니다 창작자 팀 프라이버시를 중시하는 사용자에게 적합하며 다중 사용자 접근과 역할 기반 권한 설정을 지원합니다 가족 저장소부터 비즈니스 용도까지 다양하게 활용 가능합니다
-
-    Yundera PCS에 FileBrowser를 설치하면 로컬 호스팅의 속도 오픈소스의 자유 현대적인 파일 탐색기의 간편함까지 모두 누릴 수 있습니다
-
+  
   developer: File Browser
   icon: https://cdn.jsdelivr.net/gh/Worph/AppStore@main/Apps/FileBrowser/icon.png
   screenshot_link:
