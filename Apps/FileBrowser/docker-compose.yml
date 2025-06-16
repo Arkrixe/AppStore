@@ -55,7 +55,7 @@ x-casaos:
   author: CasaOS Team
   category: Cloud
   description:
-    en_us:   
+    en_us: |   
     FileBrowser Your Private File Manager Made Easy.
 
     FileBrowser transforms the way you manage files on your Yundera Private Cloud Server, Just like Google Drive or Windows Explorer, it gives you a full-featured file management experience right in your browser. No setup required, no subscriptions, no tracking.
@@ -67,7 +67,8 @@ x-casaos:
     With FileBrowser on your Yundera PCS you get the speed of local hosting the freedom of open source and the simplicity of a modern file explorer
 
 
-    zh_cn: File Browser - FileBrowser 让私有文件管理变得简单
+    zh_cn: |
+    File Browser - FileBrowser 让私有文件管理变得简单
 
     FileBrowser 重新定义了你在 Yundera 私有云服务器上管理文件的方式 就像使用 Google Drive 或 Windows 资源管理器一样 你可以直接在浏览器中享受完整的文件管理体验 无需配置 无需订阅 无需追踪
 
@@ -80,7 +81,8 @@ x-casaos:
     ar_sa: متصفح الملفات - متصفح ملفات Webbased يشمل وظائف المشاركة وما إلى ذلك
     de_de: Datei Browser - Webbasierte Datei Browser, einschließlich Sharing-Funktionen usw.
     es_es: File Browser - Navegador de archivos Webbased que incluye funciones de compartición, etc.
-    fr_fr: FileBrowser Votre gestionnaire de fichiers personnel simplifié
+    fr_fr: |
+    FileBrowser Votre gestionnaire de fichiers personnel simplifié
 
     FileBrowser transforme votre façon de gérer vos fichiers sur votre serveur cloud privé Yundera Comme avec Google Drive ou l’Explorateur Windows vous profitez d’une expérience de gestion complète directement depuis votre navigateur Pas besoin de configuration Pas d’abonnement Pas de suivi
 
@@ -97,7 +99,7 @@ x-casaos:
     pt_br: File Browser - Navegador de arquivos Webbased que inclui funções de compartilhamento, etc.
     sv_se: File Browser - Webbaserad filbläddrare inklusive delningsfunktioner etc.
     uk_ua: File Browser - Webbased File Browser, включаючи функції обміну, тощо
-    ko_kr:  FileBrowser 쉽고 강력한 개인 파일 관리자
+    ko_kr: |  FileBrowser 쉽고 강력한 개인 파일 관리자
 
     FileBrowser는 Yundera 프라이빗 클라우드 서버에서 파일을 관리하는 방식을 완전히 새롭게 바꿉니다 Google Drive나 Windows 탐색기처럼 브라우저만으로도 완전한 파일 관리 기능을 사용할 수 있습니다 설치 불필요 구독 없음 추적도 없습니다
 
